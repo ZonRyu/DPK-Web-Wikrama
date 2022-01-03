@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+body{
+    background-color: rgb(142, 247, 247);
+}
+.Judul{
+    font-size: large;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+.btn{
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 50px 60px;
+    cursor: pointer;
+}
+.isihtml{
+    text-align: center;
+}
+.gambars {
+    text-align: center;
+}
